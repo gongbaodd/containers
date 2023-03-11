@@ -18,7 +18,12 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"GitHub.copilot"
+				"GitHub.copilot",
+				"Prisma.prisma",
+				"csstools.postcss",
+				"esbenp.prettier-vscode",
+				"rvest.vs-code-prettier-eslint",
+				"bradlc.vscode-tailwindcss"
 			]
 		}
 	}
