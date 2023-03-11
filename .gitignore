@@ -1,0 +1,6 @@
+.next
+node_modules
+db.sqlite
+.pnpm-store
+.env
+next-env.d.ts
