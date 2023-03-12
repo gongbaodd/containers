@@ -1,6 +1,7 @@
-.next
-node_modules
-db.sqlite
-.pnpm-store
 .env
+node_modules
+.pnpm-store
+.next
+prisma/db.sqlite
+target
 next-env.d.ts
