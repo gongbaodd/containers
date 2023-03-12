@@ -8,6 +8,12 @@
 	"features": {
 		"ghcr.io/devcontainers/features/github-cli:1": {
 			"enabled": true
+		},
+		"ghcr.io/devcontainers/features/desktop-lite:1": {
+			"enabled": true
+		},
+		"ghcr.io/devcontainers/features/rust:1": {
+			"enabled": true
 		}
 	},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
