@@ -1,0 +1,7 @@
+.env
+node_modules
+.pnpm-store
+.next
+prisma/db.sqlite
+target
+next-env.d.ts
